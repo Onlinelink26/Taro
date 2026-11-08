@@ -1,0 +1,15 @@
+{
+  "name": "no4eye",
+  "short_name": "no4eye",
+  "description": "Мягкие практики дыхания, самоценности и открытости",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#E0B873",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
